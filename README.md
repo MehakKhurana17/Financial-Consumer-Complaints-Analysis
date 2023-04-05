@@ -28,7 +28,7 @@ Analysis and visualization of the financial consumer complaints data provided fr
 
 3. 9.8% is the customer dispute rate which needs to be worked upon.
 
-4, Credit/Pre-paid card is the product for which maximum complaints were issued and for the product Loan minimum complaints were issued.
+4. Credit/Pre-paid card is the product for which maximum complaints were issued and for the product Loan minimum complaints were issued.
 
 5. From year 2017-2020, Checking/Saving account is the product for which there is year on year increase in the amount of complaints received.
 
