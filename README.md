@@ -21,3 +21,25 @@ Analysis and visualization of the financial consumer complaints data provided fr
 5. Most preferred media for receiving complaints is shown so it can be checked frequently.
 
 # Insights:
+
+1. In total around 75.5 thousand complaints were registered with the company, out of which 98.1% complaints were responded to on time and 238 complaints were in progress.
+
+2. About 84.5 % complaints were resolved at no cost which is great.
+
+3. 9.8% is the customer dispute rate which needs to be worked upon.
+
+4, Credit/Pre-paid card is the product for which maximum complaints were issued and for the product Loan minimum complaints were issued.
+
+5. From year 2017-2020, Checking/Saving account is the product for which there is year on year increase in the amount of complaints received.
+
+6. From 2011-2020, Credit card is the product for which every year amount of complaints received is deteorating.
+
+7. After 2017, amount of complaints received for product Banking services went down to zero.
+
+8. Mortgage, debt collection and Loan are the products where maximum complaints were closed without relief (92% -95%)
+
+9. Top three issues faced by people are -> i) Managing an account ii) Deposits and withdrawls iii) Trouble during payment process
+
+10. California is the state from where maximum complaints were issued, followed by New York.
+
+11. 50% of total complaints are received via web and about 30% via referral.
