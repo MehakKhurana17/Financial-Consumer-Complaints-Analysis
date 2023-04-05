@@ -38,7 +38,7 @@ Analysis and visualization of the financial consumer complaints data provided fr
 
 8. Mortgage, debt collection and Loan are the products where maximum complaints were closed without relief (92% -95%)
 
-9. Top three issues faced by people are -> i) Managing an account ii) Deposits and withdrawls iii) Trouble during payment process
+9. Top three issues faced by consumers are -> i) Managing an account ii) Deposits and withdrawls iii) Trouble during payment process
 
 10. California is the state from where maximum complaints were issued, followed by New York.
 
