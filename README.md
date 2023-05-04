@@ -2,7 +2,7 @@
 
 # About Project
 
-Analysis and visualization of the financial consumer complaints data provided from years 2011 to 2020 is done and some interesting trends and patterns were identified in order for company to provide better services to their customers.
+Performed comprehensive analysis and visualization of financial consumer complaints data spanning from 2011 to 2020, highlighting key trends to enable the organization to enhance service provision and customer satisfaction.
 
 #
 ![compliance-folder-and-office-supplies-on-office-desk-picture-id1136317640](https://user-images.githubusercontent.com/121285271/226867485-7c0bfb4a-beb3-44d0-a8e0-87dc3f94e65d.jpg)
