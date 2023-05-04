@@ -11,36 +11,44 @@ Performed comprehensive analysis and visualization of financial consumer complai
 
 # Highlights:
 
-1. Total complaints received, Timely response rate and Pending complaints can be seen.
+This project allows for the analysis of consumer complaints and company responses, providing the following features:
 
-2. Year wise comparison of number of complaints received for every product can be done.
+1. The total number of complaints received, the timely response rate, and the number of pending complaints can be viewed.
 
-3. Company responses to consumer for different products can be easily spotted.
+2. A year-wise comparison of the number of complaints received for each product can be made.
 
-4. Top N (dynamic parameter) issues can be seen and worked upon.
+3. Company responses to consumers for different products can be easily identified.
 
-5. Most preferred media for receiving complaints is shown so it can be checked frequently.
+4. The top N (a dynamic parameter) issues can be viewed and prioritized for resolution.
+
+5. The most preferred media for receiving complaints is displayed, allowing for frequent monitoring and adjustment. 
+
+These features can provide valuable insights for companies in addressing consumer complaints and improving their customer service experience.
 
 # Insights:
 
-1. In total around 75.5 thousand complaints were registered with the company, out of which 98.1% complaints were responded to on time and 238 complaints were in progress.
+Based on the analysis of consumer complaints and company responses, the following insights were obtained:
 
-2. About 84.5 % complaints were resolved at no cost which is great.
+1. A total of 75.5 thousand complaints were registered with the company, with a high timely response rate of 98.1%, and only 238 complaints were in progress.
 
-3. 9.8% is the customer dispute rate which needs to be worked upon.
+2. About 84.5% of complaints were resolved at no cost, indicating a great service to the customers.
 
-4. Credit/Pre-paid card is the product for which maximum complaints were issued and for the product Loan minimum complaints were issued.
+3. The customer dispute rate is 9.8%, indicating an area that requires improvement.
 
-5. From year 2017-2020, Checking/Saving account is the product for which there is year on year increase in the amount of complaints received.
+4. The product with the maximum complaints issued was Credit/Pre-paid card, while Loan had the least number of complaints.
 
-6. From 2011-2020, Credit card is the product for which every year amount of complaints received is deteorating.
+5. From the year 2017-2020, the product with the highest year-on-year increase in the number of complaints received was Checking/Saving account.
 
-7. After 2017, amount of complaints received for product Banking services went down to zero.
+6. From the year 2011-2020, Credit card was the product with the number of complaints decreasing every year.
 
-8. Mortgage, debt collection and Loan are the products where maximum complaints were closed without relief (92% -95%)
+7. After 2017, the number of complaints received for the product Banking services went down to zero.
 
-9. Top three issues faced by consumers are -> i) Managing an account ii) Deposits and withdrawls iii) Trouble during payment process
+8. Mortgage, debt collection, and Loan were the products with the maximum complaints closed without relief (92%-95%).
 
-10. California is the state from where maximum complaints were issued, followed by New York.
+9. The top three issues faced by consumers were managing an account, deposits and withdrawals, and trouble during the payment process.
 
-11. 50% of total complaints are received via web and about 30% via referral.
+10. The state with the maximum number of complaints issued was California, followed by New York.
+
+11. About 50% of total complaints were received via the web, and about 30% via referral.
+
+These insights can be useful for companies to identify areas for improvement and to enhance customer satisfaction.
